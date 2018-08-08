@@ -15,6 +15,8 @@ def less_puppies(number)
     return "Slow down! No more puppies."
   elsif number > 0
     return "Good job, Rachel!"
+    elsif number > 3 
+    return "Get back to your animal goals Rachel!"
  
   
   end
