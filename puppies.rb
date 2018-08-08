@@ -2,7 +2,6 @@
 def no_puppies(0)
     if no_puppies > 0 
       puts "No more puppies!"
-
 end
 
 
