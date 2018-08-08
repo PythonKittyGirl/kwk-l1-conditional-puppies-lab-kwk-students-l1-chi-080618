@@ -2,10 +2,10 @@
 def no_puppies(num_puppies)
     if num_puppies > 0 
       return "Get back to your animal goals!"
-else 
+    else 
       return "Good job, Rachel!"
       
-  end
+end
 end
 
 
