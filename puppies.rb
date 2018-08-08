@@ -4,7 +4,6 @@ def no_puppies(num_puppies)
       return "Get back to your animal goals!"
     else 
       return "Good job, Rachel!"
-      
 end
 end
 
