@@ -3,7 +3,7 @@ def no_puppies(0)
     if number > 0 
       puts "No more puppies!"
       else number < 0 
-      puts "Well done, Rachel!"
+      puts "Good job, Rachel!"
     end
   end
 
